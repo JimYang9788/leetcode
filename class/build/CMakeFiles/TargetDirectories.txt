@@ -1,3 +1,0 @@
-/Users/jimyang/projects/leetcode/class/build/CMakeFiles/class.tsk.dir
-/Users/jimyang/projects/leetcode/class/build/CMakeFiles/edit_cache.dir
-/Users/jimyang/projects/leetcode/class/build/CMakeFiles/rebuild_cache.dir
