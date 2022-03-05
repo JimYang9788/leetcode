@@ -9,7 +9,7 @@ class Solution
 public:
     int dfs(int i, int j, vector<vector<char>> &grid)
     {
-        if (i < 0 || i > row_count - 1 || j < 0 || j > col_count)
+        if (i < 0 || i > row_count - 1 || j < 0 || j > col_count - 1)
         {
             return 0;
         }
