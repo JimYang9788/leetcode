@@ -18,6 +18,8 @@ public:
     }
 
     // Return the dotProduct of two sparse vectors
+    // This is the hashmap version.
+    // Also a two ptr one would do too.
     int dotProduct(SparseVector &vec)
     {
         int res = 0;
