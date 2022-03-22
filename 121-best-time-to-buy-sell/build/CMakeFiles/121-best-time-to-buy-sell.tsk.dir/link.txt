@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/121-best-time-to-buy-sell.tsk.dir/121-best-time-to-buy-sell.m.cpp.o -o 121-best-time-to-buy-sell.tsk 
