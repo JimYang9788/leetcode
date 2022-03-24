@@ -10,4 +10,7 @@ then
 ```
 make 
 ```
-To run the .tsk file
+To run the `.tsk` file
+It will look like 
+`./101-problem.tsk`
+to run the solution
